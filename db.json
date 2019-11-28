@@ -58,6 +58,10 @@
 		}]
 	},
 	"demo":{
-		"demo":"DEMO"
+		[{
+			"demo":"DEMO"
+		},{
+			"demo1":"DEMO1"
+		}]
 	}
 }
