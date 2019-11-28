@@ -57,5 +57,7 @@
 			"estado": 1
 		}]
 	},
-	"demo",:"demo"
+	"demo":{
+		"demo":"DEMO"
+	}
 }
