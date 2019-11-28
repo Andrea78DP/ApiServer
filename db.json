@@ -57,11 +57,9 @@
 			"estado": 1
 		}]
 	},
-	"demo":{
-		[{
-			"demo":"DEMO"
-		},{
-			"demo1":"DEMO1"
-		}]
-	}
+	"demo": [{
+		"demo1": "demo1"
+	}, {
+		"demo2": "demo2"
+	}]
 }
