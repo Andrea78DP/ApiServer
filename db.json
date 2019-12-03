@@ -6,6 +6,12 @@
 		"ip4G": "10.226.34.209",
 		"ipEthernet": "192.168.1.36",
 		"cobertura": -81,
-		"versionFW": "200"
+		"versionFW": "200",
+		"ms": [ {
+				"iName": "Temperatura",
+				"ts": "2018-10-10T12:20:00Z",
+				"un": "",
+				"va": "45.98"
+			}]
 		}
 }
