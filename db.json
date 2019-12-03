@@ -1,4 +1,11 @@
 {
+	"demo": [{
+		"demo0": "demo0",
+		"demo1": "demo1"
+	}, {
+		"demo2": "demo2",
+		"demo3": "demo3"
+	}],
 	"test": {
 		"fecha": "2019-11-28T20:48:58Z",
 		"id": "TH0000",
@@ -56,12 +63,5 @@
 			"alarma": 16,
 			"estado": 1
 		}]
-	},
-	"demo": [{
-		"demo0": "demo0",
-		"demo1": "demo1"
-	}, {
-		"demo2": "demo2",
-		"demo3": "demo3"
-	}]
+	}
 }
